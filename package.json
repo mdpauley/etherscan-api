@@ -1,7 +1,7 @@
 {
-  "name": "etherscan-api",
+  "name": "polyscan-api",
   "version": "10.3.0",
-  "description": "API to etherscan with a simple interface",
+  "description": "API to polyscan with a simple interface",
   "main": "index.js",
   "scripts": {
     "test": "mocha -t 20000",
@@ -15,9 +15,10 @@
   },
   "keywords": [
     "arbiscan",
-    "ethereum",
-    "EtherScan.io",
-    "etherscan",
+    "polygon",
+    "matic"
+    "PolygonScan.com",
+    "polyscanscan",
     "blockchain",
     "api",
     "transaction",
@@ -25,14 +26,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebs/etherscan-api.git"
+    "url": "git+https://github.com/mdpauley/polyscan-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sebs/etherscan-api/issues"
+    "url": "https://github.com/mdpauley/polyscan-api/issues"
   },
-  "homepage": "https://github.com/sebs/etherscan-api#readme",
+  "homepage": "https://github.com/mdpauley/polyscan-api#readme",
   "devDependencies": {
     "chai": "4.3.7",
     "jshint": "2.13.6",
